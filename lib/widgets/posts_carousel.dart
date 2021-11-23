@@ -53,7 +53,7 @@ class PostsCarousel extends StatelessWidget {
           Positioned(
             left: 10.0,
             bottom: 10.0,
-            right: 30.0,
+            right: 10.0,
             child: Container(
               padding: const EdgeInsets.all(12.0),
               height: 110.0,
